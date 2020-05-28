@@ -2,7 +2,7 @@
 
 ### Assignment given as part of the DevPoint Labs Full Stack Web Development Course
 
-#### Week 6
+#### Week 5
 
 Basic Objectives:
 
