@@ -1,3 +1,31 @@
+# React Grocery List
+
+### Assignment given as part of the DevPoint Labs Full Stack Web Development Course
+
+#### Week 6
+
+Basic Objectives:
+
+-Follow the lecture from today to set up a Grocery List
+
+-Be able to create new items for your list
+
+-Be able to mark items as complete.
+
+
+Bonus Objectives:
+
+-Edit grocery name
+
+-Delete an item
+
+-Add styling
+
+
+
+-------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
